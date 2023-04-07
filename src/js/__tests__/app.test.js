@@ -10,4 +10,4 @@ test.each([
 ])('Check checkHealthLevel function with %d level and %s status', (level, expected) => {
   const result = checkHealthLevel({ name: '_', health: level });
   expect(result).toBe(expected);
-});
+})

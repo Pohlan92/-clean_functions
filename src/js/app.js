@@ -5,5 +5,5 @@ export default function checkHealthLevel(params = {}) {
   if (params.health > 50) {
     return 'healthy';
   }
-  return 'wounded';
+  return 'wounded'
 }

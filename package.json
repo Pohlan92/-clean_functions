@@ -13,7 +13,7 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "Boris Kaminskiy",
+  "author": "Pohlan92",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
